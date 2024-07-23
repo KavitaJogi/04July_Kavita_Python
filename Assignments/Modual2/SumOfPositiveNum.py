@@ -1,5 +1,6 @@
 num=int(input("Enter Number: "))
-if num>0:
-    for i in range(1,num):
-        i+=1
-    print(f"Sum Of Positive Number: {num}")
+sum=0
+for i in range(1,num+1):
+        if(num>0):
+            sum+=i
+print(f"Sum Of Positive Number: {sum}")
