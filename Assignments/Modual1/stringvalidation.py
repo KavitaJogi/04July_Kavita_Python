@@ -1,4 +1,4 @@
-"""name=input("Enter Your Name: ")
+name=input("Enter Your Name: ")
 if name.isalpha():
     print("success")
  
@@ -13,7 +13,7 @@ if email.islower():
 pwd=input("Enter Your Password: ")
 cnfpwd=input("Enter Your Confirm Password: ")
 if pwd==cnfpwd:
-    print("Sucess")"""
+    print("Sucess")
     
 mbno=input("Enter Your Mobile Number: ")
 length=len(mbno)
