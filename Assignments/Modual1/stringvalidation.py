@@ -14,9 +14,7 @@ pwd=input("Enter Your Password: ")
 cnfpwd=input("Enter Your Confirm Password: ")
 if pwd==cnfpwd:
     print("Sucess")
-else:
-    print("False")
-
+    
 mbno=input("Enter Your Mobile Number: ")
 if mbno.isdigit(): 
     print("Success")
