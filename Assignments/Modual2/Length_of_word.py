@@ -9,4 +9,4 @@ for j in ip_no:
     if len(j) > maxlen:
         maxlen=len(j)
         temp=j
-print(f"word with the longest length is: {temp}")    
+print(f"word {temp} with the longest length is: {maxlen}")    
