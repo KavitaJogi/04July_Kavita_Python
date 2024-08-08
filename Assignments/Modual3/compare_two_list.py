@@ -19,7 +19,7 @@ set1=set(mylist1)
 set2=set(mylist2)
 
 if set1.intersection(set2):
-    print("true")
+    print("One common member is in both of list")
 else:
-    print("error")
+    print("No common member found in both of list")
 
