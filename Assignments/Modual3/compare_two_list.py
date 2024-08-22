@@ -22,4 +22,3 @@ if set1.intersection(set2):
     print("One common member is in both of list")
 else:
     print("No common member found in both of list")
-
