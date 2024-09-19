@@ -10,6 +10,6 @@ for i in range(n):
 check=input("Enter Key Name : ")
 
 if check in mydict:
-    print(f"Key '{check}' is already exists.")
+    print(f"Key '{check}' is already exist.")
 else:
-    print(f"Key '{check}' is not exists.")
+    print(f"Key '{check}' is not exist.")
