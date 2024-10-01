@@ -1,0 +1,3 @@
+Hello! Welcome to readfile.txt
+This file is for testing purposes.
+Good Luck!
